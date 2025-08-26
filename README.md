@@ -12,7 +12,7 @@ Follow these steps to set up the project environment on your local machine.
 1.  **Clone the Repository**
     Open a terminal and run the following command to clone this repository:
     ```bash
-    git clone [https://github.com/tanich04/Movie-Semantic-Search-Engine.git](https://github.com/tanich04/Movie-Semantic-Search-Engine.git)
+    git clone https://github.com/tanich04/Movie-Semantic-Search-Engine.git
     cd Movie-Semantic-Search-Engine/Assignment-1
     ```
 
