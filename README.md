@@ -1,5 +1,7 @@
 # Movie Semantic Search Assignment
-
+**TANISHKA CHAUHAN
+221010250
+ECE**
 This repository contains my solution for the semantic search on movie plots assignment. The project implements a search engine that uses natural language understanding to find movies semantically similar to a given query, rather than just matching keywords.
 
 ## Setup
@@ -29,7 +31,7 @@ Follow these steps to set up the project environment on your local machine.
     pip install -r requirements.txt
     ```
 
-4.  **Run the Notebook**
+4.  **Run the Notebook (Optional)**
     If you have a Jupyter Notebook or Jupyter Lab installed, you can open and run the notebook to see the code in action.
     ```bash
     jupyter notebook movie_search_solution.ipynb
