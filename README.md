@@ -2,6 +2,7 @@
 **TANISHKA CHAUHAN
 221010250
 ECE**
+
 This repository contains my solution for the semantic search on movie plots assignment. The project implements a search engine that uses natural language understanding to find movies semantically similar to a given query, rather than just matching keywords.
 
 ## Setup
