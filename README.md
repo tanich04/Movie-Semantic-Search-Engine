@@ -50,7 +50,7 @@ python movie_search.py
 ```
 This will run the example usage and print the top 3 results for the query spy thriller in Paris.
 
-              title             plot                          similarity
-0          Spy Movie            A spy navigates intrigue...    0.769684
-1   Romance in Paris            A couple falls in love...      0.388030
-2       Action Flick            A high-octane chase through..  0.256777
+              title      |       plot                         | similarity
+0          Spy Movie     |       A spy navigates intrigue...  |  0.769684
+1   Romance in Paris     |       A couple falls in love...    |  0.388030
+2       Action Flick     |       A high-octane chase through..|  0.256777
